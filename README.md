@@ -21,7 +21,7 @@ Reduzir o tempo de cadastro de novos instrutores/alunos em 90%, substituindo a e
 ## Como rodar
 
 # Clone o repositório
-git clone [https://github.com/SEU-USER/bepilot-idp-agent.git](https://github.com/SEU-USER/bepilot-idp-agent.git)
+git clone [https://github.com/SEU-USER/idp-agent.git](https://github.com/SEU-USER/idp-agent.git)
 
 # Instale as dependências
 pip install -r requirements.txt
